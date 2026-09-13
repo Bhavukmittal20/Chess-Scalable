@@ -1,0 +1,1 @@
+export type ChessPieces="PawnW"|"KnightW"|"BishopW"|"KingW"|"QueenW"|"RookW"|"PawnB"|"KnightB"|"BishopB"|"KingB"|"QueenB"|"RookB";
